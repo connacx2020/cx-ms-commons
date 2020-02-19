@@ -1,8 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const config_1 = require("./config");
-exports.ConfigModule = config_1.ConfigModule;
-exports.ConfigService = config_1.ConfigService;
 const decorators_1 = require("./decorators");
 exports.Roles = decorators_1.Roles;
 exports.CurrentUser = decorators_1.CurrentUser;

@@ -1105,33 +1105,17 @@
         "version": "e0e01013f40a172c13d53c88ce2695741df27852da7ede9e2e336c86c43c8ec5",
         "signature": "e0e01013f40a172c13d53c88ce2695741df27852da7ede9e2e336c86c43c8ec5"
       },
-      "../node_modules/dotenv/types/index.d.ts": {
-        "version": "c9ae0b351a07b52f29a28e869d8c7c8d29743bbb5eeddc7c0b5b2a69a2450528",
-        "signature": "c9ae0b351a07b52f29a28e869d8c7c8d29743bbb5eeddc7c0b5b2a69a2450528"
-      },
-      "../src/config/config.service.ts": {
-        "version": "3521df0c0b55ffb5347c53d5c15ee04eec0a073753578be1ccb1a6a15ac8c342",
-        "signature": "dea784364101dba12f9ca72ef58b2fa4cc76309d1c6ab734f68439248a5b7553"
-      },
-      "../src/config/config.module.ts": {
-        "version": "c32cd8ee1aea9e13f1dedb052d0aaaa784d17186380aa37566528c75a9ef480a",
-        "signature": "57875529e29eaf2f3fc6bbd50d92f271595480ba5962575d809d84a3c6ddcb6b"
-      },
-      "../src/config/index.ts": {
-        "version": "2feb4c602f34fc3536e55073863c2b5ea94e1091e715e9103a4ddfbaf9fc4dad",
-        "signature": "2feb4c602f34fc3536e55073863c2b5ea94e1091e715e9103a4ddfbaf9fc4dad"
-      },
       "../src/decorators/roles.decorator.ts": {
-        "version": "f34d8fe20c48153dd3955443031211a0fd799fea52ab06b256f390eefc8827a9",
-        "signature": "8a2320a320793e81635b82d13d7b86b20cefd2bc782322bed356e2f610f98066"
+        "version": "2fd77672eb09e8608863c053a5c7cb559939ad5d9be5f57e195d8cd912047bd2",
+        "signature": "581f08bea9ab6cadc2d509467c080ce2e2ceee951bd1ae0ca45199fc5b31a7d8"
       },
       "../src/decorators/user.decorator.ts": {
-        "version": "8a3de5b7446f710fa018ac8f6e273b7fd3cd646e7bdae274ce7e65c47a163e88",
-        "signature": "d0930730f714b26910afeef39208dad831067859c83a1283b7fe6093c370447d"
+        "version": "990e92e8444cbebf6b36e31950dd30be187cc0e98224ba9ef2790fe6d5b128df",
+        "signature": "1bc9a4255426c761edec53d074bfd7aa46330a411b10085662923e9056fa948f"
       },
       "../src/decorators/index.ts": {
-        "version": "efe7da8b6dcf0e2c95a6e8de3260b947aae19eeda580bb2f717120614e89b924",
-        "signature": "efe7da8b6dcf0e2c95a6e8de3260b947aae19eeda580bb2f717120614e89b924"
+        "version": "48844244cec17323ae57778e2f6d342d1f0fd9dc90ae8d4f3e608a3c1eef1c69",
+        "signature": "48844244cec17323ae57778e2f6d342d1f0fd9dc90ae8d4f3e608a3c1eef1c69"
       },
       "../node_modules/@types/range-parser/index.d.ts": {
         "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
@@ -1162,12 +1146,12 @@
         "signature": "6e1c6fe784daeba017901db7766e6b872f535defe33b0e0196d2a12c26f50517"
       },
       "../src/filters/http-exception.filter.ts": {
-        "version": "7e36497a32e4c5da4b576fca9726ca11b3683fff2ef79d7e23739eb12e73369f",
-        "signature": "4cc9bab78084f2cc71a77d78d1d297a25068bf7f4cd5642267a00931f80c7a6d"
+        "version": "28a8b526e6b5600487e4467fa69a7bb10c3ba1c36d7f248b5181aeeae5675beb",
+        "signature": "7b5b523ebb0b79714280ecc129a7d49e42a6c7c3f99a257bfed537f3ca874bf3"
       },
       "../src/filters/index.ts": {
-        "version": "5c6af81109f54c6016b8ce90471fab26b3c45a13632f26b3c01043ce01502853",
-        "signature": "5c6af81109f54c6016b8ce90471fab26b3c45a13632f26b3c01043ce01502853"
+        "version": "1a907f7ce29b5974132d6276b523c113a69e552f6cb003352da5a0f75f2a6513",
+        "signature": "1a907f7ce29b5974132d6276b523c113a69e552f6cb003352da5a0f75f2a6513"
       },
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
         "version": "db3b4b2c9508013aecea8aafa90e968d3a389744d3b3c637921ff8f06c1a5c89",
@@ -1310,12 +1294,12 @@
         "signature": "6400917b161d3331bc82638ccc4aa149d755f501cfaba3d716fca1228c956171"
       },
       "../src/guards/roles.guard.ts": {
-        "version": "7e6e64fb5a4254a22b46aec51ff5aa93085950fb8fbbcf8236d94894ef069648",
-        "signature": "45c429d63eb8a2b51deba2398a6357a6a7b2e4dd05852323bda135de9be4bad7"
+        "version": "2f0bc2e693ca36a1bf74043a617969d2dbac0b815aa5a7e164956e1bfc95e449",
+        "signature": "2034addee7c54c9756a5bca03bf90600cec6aca19627c71b632cfaef2e62a954"
       },
       "../src/guards/index.ts": {
-        "version": "e9db0d02b57b470418d8aabee031c7ab400adc9504a1f0253c237047c4674601",
-        "signature": "e9db0d02b57b470418d8aabee031c7ab400adc9504a1f0253c237047c4674601"
+        "version": "ce2d4bcbb51a131b11d9d25a6d218332f1b66c62690d7062bf8449ca0848e14b",
+        "signature": "ce2d4bcbb51a131b11d9d25a6d218332f1b66c62690d7062bf8449ca0848e14b"
       },
       "../node_modules/rxjs/internal/operators/audit.d.ts": {
         "version": "fe936a68d281ccc2060f8c3de69a0682a807c8fd1b8abccc0a91b83195ca0f94",
@@ -1730,32 +1714,32 @@
         "signature": "8548a1a83c1091e8c7a355b7edf031854b007d10a7fa24e180a95d608c87704e"
       },
       "../src/interceptors/logging.interceptor.ts": {
-        "version": "4dee0c9e7a65095563463aeb6075d39defeea3b0893f2cb6a1e516509acfc1bd",
-        "signature": "4838cf7c87f4c3e47a3fb619c004961761a314791c4e3e32ee1e46f97e84072e"
+        "version": "1f902e5d1f754b6aa82c87bb6c584782b547901520f1a7b74e4c97cbee02efb5",
+        "signature": "552799344b6e1c4183b83be3c5a284e99401c5eb13695436810e199d6abfa9b8"
       },
       "../src/interceptors/exception.interceptor.ts": {
-        "version": "cdfc6c645fdd8922c28b7785186c8daa77e4e60a27021281c3a0bc97cc6d89cd",
-        "signature": "73d4f9dc6982124dfa420d108f808484224d1d84013639a8a6492b8fd181b984"
+        "version": "642cff5d26fc0854d688d6774dbdfa5b2453b0b098e4190822bb8e6e544ede7a",
+        "signature": "a333a00db3c4957528af4a6a00c861250339ef38a04d0567d04ce02b1a4918f0"
       },
       "../src/interceptors/transform.interceptor.ts": {
-        "version": "fb8a28fc894ac75484118738d93a45a7b9ddebc8c9f55761f0553113ad1c7400",
-        "signature": "595057a56ce4a7eae2fae3b31f19c975eb0f5b1c1667e7714d194b31e2e7f81e"
+        "version": "989ddd4a310fcf6f55c4ae09b894dee78cfd1d49e5883accc20aedd32ba5dcf4",
+        "signature": "2122cce99f4ec2cf2c5426a88cc8fdd278e2559c8c6a20771715dde4100138c8"
       },
       "../src/interceptors/timeout.interceptor.ts": {
-        "version": "6c3ed9b1760744a11e50b925c7cee191441b833d12fb4daa07461befa7e3b842",
-        "signature": "d7027069812690ef3d522474471f86a316d44755ebb6e785c5cd2c31b79ed56a"
+        "version": "c729aa0bd5945320b3f5a9f302886933ae1d045e5cb65ffedee614990e9eb7ab",
+        "signature": "77bc2663cdc2a316b87a1c78739202be23501d3cb80e36b36c41e35f7f868812"
       },
       "../src/interceptors/index.ts": {
-        "version": "1ecd30b36ed1bbc3993fbf34bd30f5562f63632d8ce30f3d618b6330b47d758b",
-        "signature": "1ecd30b36ed1bbc3993fbf34bd30f5562f63632d8ce30f3d618b6330b47d758b"
+        "version": "83c78d27c887170bce5d71efde692c177d4c63cfaf3c5f9a2a879090dabec646",
+        "signature": "83c78d27c887170bce5d71efde692c177d4c63cfaf3c5f9a2a879090dabec646"
       },
       "../src/middlewares/logger.middleware.ts": {
-        "version": "2a24216cf985b0e497fab87cff5ee7b871fa6a213c0b2b48801fa0a7ecd47d1c",
-        "signature": "edd4d3f28e7de4136249b998ea1ceb497bad839735e46843791de0672fae69bc"
+        "version": "e3327ff1ab1e50cfbfdc51080c2ef0b81f394b77173d044e6cdd65210d99da96",
+        "signature": "0da9335a61bf49ecc11c0d21a4d91031f254507a60bd922f19de97959a4bd208"
       },
       "../src/middlewares/index.ts": {
-        "version": "589e2c7951b48a228c5c14b92e8bfc415ed0e03c30c135ba4728d78301d72911",
-        "signature": "589e2c7951b48a228c5c14b92e8bfc415ed0e03c30c135ba4728d78301d72911"
+        "version": "feddc86d55b5166aa6307b5b33b8ac8b99fbe59d4427a40fa6eed99d82574367",
+        "signature": "feddc86d55b5166aa6307b5b33b8ac8b99fbe59d4427a40fa6eed99d82574367"
       },
       "../node_modules/class-validator/validation/validationerror.d.ts": {
         "version": "8b5ad058f8dab857050fdbb092b9f1267d22641f0f746cd8a7abee85b48bb83a",
@@ -1858,24 +1842,24 @@
         "signature": "097d4bf3331df1e138ffdcf92e1117f6841bc8337170d927fd955d5ee8a1674b"
       },
       "../src/pipes/validation.pipe.ts": {
-        "version": "026aacaf8b36a0c07884c382a3d851288e0b22db3d3fa400ac85a9530afe32a9",
-        "signature": "58ae7268679601a9f6756128bdc74f034085eaed8388234167493a44d9fe6d0c"
+        "version": "fc08755e6d672f12bda326eb5b5baabae4bdfc40151addd76b4b559a93547695",
+        "signature": "134c61339c890213ca34c3b6212da9c01cc9ec918c4bef25b60469295a80ca62"
       },
       "../src/pipes/index.ts": {
-        "version": "576903d81a1d0b87bdd1693f388ff567a9a4cd2cce8fd51d53f6a3d55681dbb7",
-        "signature": "576903d81a1d0b87bdd1693f388ff567a9a4cd2cce8fd51d53f6a3d55681dbb7"
+        "version": "b5caa55bb8337e09b2276f92912d8f9804f048e80d28c98b2c3f326e7dadb123",
+        "signature": "b5caa55bb8337e09b2276f92912d8f9804f048e80d28c98b2c3f326e7dadb123"
       },
       "../src/utils/uuid.ts": {
-        "version": "f7d1005284a901aac5902e6020517b278662074778f304b67be20acd9e871731",
-        "signature": "fb1cc283dfce97116956f20f0dd1ed6f3e84d1cc972afc19190d60917c59e61b"
+        "version": "d88e5219db15950f9c72bbd79e4df9c960bbf948dffa7774b00f32ae3a34d0ad",
+        "signature": "3573d6422c8aafe3619885cea166b780ad90d27d3c38b72392d053347d54eb6c"
       },
       "../src/utils/index.ts": {
-        "version": "c8a84f8101b047e9beca4e985b9102b08aab2770ec221a6fd14826a7cde2eac6",
-        "signature": "c8a84f8101b047e9beca4e985b9102b08aab2770ec221a6fd14826a7cde2eac6"
+        "version": "1b88c0c8a5627181d80924279a7f43ac383c98e1f247edbe266788016ed3d989",
+        "signature": "1b88c0c8a5627181d80924279a7f43ac383c98e1f247edbe266788016ed3d989"
       },
       "../src/index.ts": {
-        "version": "fcc5f6975ce370a1be3baaebc6fd09f5c2900b3e06525c1074168270c1870052",
-        "signature": "8d3674d805cb102571c6cabef5f8dc5dda0c85a0302bea160c4ac07d434499f2"
+        "version": "412152ab60dcd4f94dabb606f351d898d9a1c452583902c9909833c28390eae0",
+        "signature": "e2b5c8c36c8022aac60baa2f1b4daada42783b87a7ed2b0a0072611284801852"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
         "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
@@ -1992,6 +1976,10 @@
       "../node_modules/@types/yargs/index.d.ts": {
         "version": "989ea8e89ef2d6a07a1872fcee14be6b9e1920b04f19a4ab149d673f89af67e6",
         "signature": "989ea8e89ef2d6a07a1872fcee14be6b9e1920b04f19a4ab149d673f89af67e6"
+      },
+      "../../../../../node_modules/@types/normalize-package-data/index.d.ts": {
+        "version": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
+        "signature": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613"
       }
     },
     "options": {
@@ -4189,36 +4177,6 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/dotenv/types/index.d.ts": [
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../src/config/config.service.ts": [
-        "../node_modules/dotenv/types/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../src/config/config.module.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
-        "../src/config/config.service.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../src/config/index.ts": [
-        "../src/config/config.module.ts",
-        "../src/config/config.service.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "../src/decorators/roles.decorator.ts": [
         "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -5813,7 +5771,6 @@
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../src/index.ts": [
-        "../src/config/index.ts",
         "../src/decorators/index.ts",
         "../src/filters/index.ts",
         "../src/guards/index.ts",
@@ -6030,6 +5987,12 @@
       ],
       "../node_modules/@types/yargs/index.d.ts": [
         "../node_modules/@types/yargs-parser/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../../../../../node_modules/@types/normalize-package-data/index.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -6276,7 +6239,6 @@
         "../src/pipes/validation.pipe.ts"
       ],
       "../src/index.ts": [
-        "../src/config/index.ts",
         "../src/decorators/index.ts",
         "../src/filters/index.ts",
         "../src/guards/index.ts",
@@ -6588,10 +6550,6 @@
       "../src/decorators/index.ts": [
         "../src/decorators/roles.decorator.ts",
         "../src/decorators/user.decorator.ts"
-      ],
-      "../src/config/index.ts": [
-        "../src/config/config.module.ts",
-        "../src/config/config.service.ts"
       ],
       "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts": [
         "../node_modules/@nestjs/common/index.d.ts",
@@ -8890,13 +8848,6 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/dotenv/types/index.d.ts": [
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "../node_modules/@nestjs/common/interfaces/external/mqtt-options.interface.d.ts": [
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -9120,6 +9071,12 @@
         "../node_modules/@types/node/stream.d.ts",
         "../node_modules/@types/node/events.d.ts",
         "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../../../../../node_modules/@types/normalize-package-data/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
@@ -10199,10 +10156,6 @@
       "../node_modules/@nestjs/common/utils/forward-ref.util.d.ts",
       "../node_modules/@nestjs/common/utils/index.d.ts",
       "../node_modules/@nestjs/common/index.d.ts",
-      "../node_modules/dotenv/types/index.d.ts",
-      "../src/config/config.service.ts",
-      "../src/config/config.module.ts",
-      "../src/config/index.ts",
       "../src/decorators/roles.decorator.ts",
       "../src/decorators/user.decorator.ts",
       "../src/decorators/index.ts",
@@ -10421,6 +10374,7 @@
       "../node_modules/@types/webpack/index.d.ts",
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
+      "../../../../../node_modules/@types/normalize-package-data/index.d.ts",
       "../node_modules/typescript/lib/lib.es2015.d.ts",
       "../node_modules/typescript/lib/lib.es2016.d.ts",
       "../node_modules/typescript/lib/lib.es2017.d.ts",
