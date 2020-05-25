@@ -17,7 +17,7 @@ let HttpExceptionFilter = class HttpExceptionFilter {
             .status(status)
             .json({
             statusCode: status,
-            message: exception.message.error,
+            message: exception.message,
             timestamp: new Date().toISOString(),
             path: request.url,
         });
