@@ -13,9 +13,7 @@ let HttpExceptionFilter = class HttpExceptionFilter {
         const response = ctx.getResponse();
         const request = ctx.getRequest();
         const status = exception.getStatus();
-        console.log("Response Status:", status);
-        console.log("Response :", response);
-        if (status) {
+        if (response && response.status) {
             response
                 .status(status)
                 .json({
@@ -24,6 +22,9 @@ let HttpExceptionFilter = class HttpExceptionFilter {
                 timestamp: new Date().toISOString(),
                 path: request.url,
             });
+        }
+        else {
+            console.log("Error:", exception.message);
         }
     }
 };

@@ -8,10 +8,7 @@ export class HttpExceptionFilter implements ExceptionFilter {
         const response = ctx.getResponse<Response>();
         const request = ctx.getRequest<Request>();
         const status = exception.getStatus();
-
-        console.log("Response Status:", status);
-        console.log("Response :", response);
-        if (status) {
+        if (response && response.status) {
             response
                 .status(status)
                 .json({
@@ -20,6 +17,8 @@ export class HttpExceptionFilter implements ExceptionFilter {
                     timestamp: new Date().toISOString(),
                     path: request.url,
                 });
+        } else {
+            console.log("Error:", exception.message);
         }
     }
 }
