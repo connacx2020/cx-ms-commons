@@ -1130,7 +1130,7 @@
         "signature": "6e1c6fe784daeba017901db7766e6b872f535defe33b0e0196d2a12c26f50517"
       },
       "../src/filters/http-exception.filter.ts": {
-        "version": "dc810e235099b1c7e1fae8b2dfe03e002cdc990ca549285de40ef2a8e868110e",
+        "version": "4e6569214d7d799349c9117b21f02314719a63c8236e4fe05ddff0f41d6368cb",
         "signature": "4cc9bab78084f2cc71a77d78d1d297a25068bf7f4cd5642267a00931f80c7a6d"
       },
       "../src/filters/index.ts": {
