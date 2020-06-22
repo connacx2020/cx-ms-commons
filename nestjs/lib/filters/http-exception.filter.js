@@ -25,8 +25,6 @@ let HttpExceptionFilter = class HttpExceptionFilter {
         }
         else {
             console.log("Error:", exception.message);
-            console.log("Response:", response);
-            console.log("Request:", request);
         }
     }
 };

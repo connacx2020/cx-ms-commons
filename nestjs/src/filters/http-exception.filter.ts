@@ -19,8 +19,6 @@ export class HttpExceptionFilter implements ExceptionFilter {
                 });
         } else {
             console.log("Error:", exception.message);
-            console.log("Response:", response);
-            console.log("Request:", request);
         }
     }
 }
