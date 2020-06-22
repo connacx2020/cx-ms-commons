@@ -1,6 +1,6 @@
 {
   "name": "@connacx/nest-ms-commons",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "at the nest-ms-commons package repo: yarn link at the consuming repo: yarn link @cx/nest-ms-commons",
   "author": "",
   "license": "MIT",
