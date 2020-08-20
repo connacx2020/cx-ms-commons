@@ -352,7 +352,7 @@
     webpack "4.41.2"
     webpack-node-externals "1.7.2"
 
-"@nestjs/common@^7.0.13":
+"@nestjs/common@7.0.13":
   version "7.0.13"
   resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-7.0.13.tgz#7effc4c0a00307121151547fe8f7e9ea10d0c256"
   integrity sha512-jSEBnmeuxzorYzG+RAjcQxhs9Sga2/LYelt+ZOwWqxeRVxlB1d4bMWzhCDrVQ3uep9xJD67TbKztchkDBomokA==
@@ -363,7 +363,7 @@
     tslib "1.11.2"
     uuid "8.0.0"
 
-"@nestjs/core@^7.0.13":
+"@nestjs/core@7.0.13":
   version "7.0.13"
   resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-7.0.13.tgz#bcb437a4b5fed109083d90534056d1744189f0a4"
   integrity sha512-ZO2ywVP+KNoubX4jQf4rv/0G96LHJ0FFkff3NBxr7TxLVDEYctepIwViYvAvBr9SfTAaJeznGTDY1KO53GMlkQ==
@@ -376,7 +376,7 @@
     tslib "1.11.2"
     uuid "8.0.0"
 
-"@nestjs/platform-express@^7.0.13":
+"@nestjs/platform-express@7.0.13":
   version "7.0.13"
   resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-7.0.13.tgz#b324203de25fb2de5719fc95c71d5f17396f562c"
   integrity sha512-OT0YLIpgXkTkx+HWAZ5dFDSHsllrymlR9D8TaRntGX3TcvyQ2D05MK6yTuKiSUFLfSynoPYNc07lGAVuf9OBKA==
@@ -3121,7 +3121,7 @@ is-descriptor@^1.0.0, is-descriptor@^1.0.2:
     is-data-descriptor "^1.0.0"
     kind-of "^6.0.2"
 
-is-extendable@^0.1.1:
+is-extendable@^0.1.0, is-extendable@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/is-extendable/-/is-extendable-0.1.1.tgz#62b110e289a471418e3ec36a617d472e301dfc89"
   integrity sha1-YrEQ4omkcUGOPsNqYX1HLjAd/Ik=
